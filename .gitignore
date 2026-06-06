@@ -264,7 +264,12 @@ checkpoints/
 
 HRI-SENSE/
 MELD.RAW/
-
+shrec_empathic/
+shrec_wellness_dorm/
+shrec_wellness_office/
+shrec_wellness_home/
+shrec_wellness_hospital/
+shrec_wellness_carehome/
 
 # Optional: ignore large datasets
 # data/
